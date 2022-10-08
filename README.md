@@ -8,4 +8,5 @@ cp neovim-congig/init.vim ~/.config/nvim
 nvim ~/.config/nvim/init.vim
 :so %
 :PlugInstall
-``
+```
+

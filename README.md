@@ -2,10 +2,7 @@
 fedora
 ```bash
 git clone https://github.com/bisaek/neovim-config.git
-sudo sh neovim-config/fedora_install.sh
-:PlugInstall
-:q
-:so %
+sh neovim-config/fedora_install.sh
 ```
 
 other linux distros
